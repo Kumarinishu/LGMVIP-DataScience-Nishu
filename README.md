@@ -2,7 +2,7 @@
 # LGMVIP-Data Science Intern-March-22
 
 **Submitted by:**
-Nishu Kumari
+NISHU KUMARI
 
 # Dataset Links
 **TASK-1:** Dataset Link : http://archive.ics.uci.edu/ml/machine-learning-databases/iris

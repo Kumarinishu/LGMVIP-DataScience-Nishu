@@ -17,6 +17,4 @@ Dataset Link : http://archive.ics.uci.edu/ml/machine-learning-databases/iris
 
 **Stock Market Prediction And Forecasting Using Stacked LSTM**
 
-
-
-** Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv

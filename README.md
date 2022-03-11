@@ -13,4 +13,10 @@ This particular ML project is usually referred to as the “Hello World” of Ma
 Dataset Link : http://archive.ics.uci.edu/ml/machine-learning-databases/iris
 
 
-**TASK-2:** Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+# TASK-2
+
+**Stock Market Prediction And Forecasting Using Stacked LSTM**
+
+
+
+** Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv

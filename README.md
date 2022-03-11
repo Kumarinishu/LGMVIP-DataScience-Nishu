@@ -5,7 +5,9 @@
 NISHU KUMARI
 
 **Level :** Beginner Level
+
 **Programming Language used :** Python
+
 **IDE :** Jupyter-Notebook
 
 # TASK-1

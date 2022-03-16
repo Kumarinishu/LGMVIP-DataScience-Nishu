@@ -49,3 +49,5 @@ Music recommender systems can suggest songs to users based on their listening pa
 
 Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
 
+Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task4-datascience-activity-6909856008353841152-dsDV?utm_source=linkedin_share&utm_medium=member_desktop_web
+

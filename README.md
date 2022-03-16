@@ -39,3 +39,13 @@ We need to read the image in RBG format and then convert it to a grayscale image
 For this task i used two images, one is of a BIRD and other is of a GIRL!!
 
 Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task3-datascience-activity-6908020740172464128-Vdru
+
+
+# TASK-4
+
+**Music Recommendation**
+
+Music recommender systems can suggest songs to users based on their listening patterns.
+
+Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+

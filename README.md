@@ -8,8 +8,9 @@ NISHU KUMARI
 
 **IDE :** Jupyter-Notebook
 
-     **Level :** Beginner Level
 
+                           
+                          **Level :** Beginner Level                      
 # TASK-1
 
 **Iris Flowers Classification ML Project**
@@ -52,8 +53,7 @@ Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/dat
 Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task4-datascience-activity-6909856008353841152-dsDV?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 
-                            **Level :** Intermediate Level 
-
+                               **Level :** Intermediate Level    
 # TASK-5
 
 **Exploratory Data Analysis on Dataset - Terrorism**

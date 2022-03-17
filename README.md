@@ -4,11 +4,11 @@
 **Submitted by:**
 NISHU KUMARI
 
-**Level :** Beginner Level
-
 **Programming Language used :** Python
 
 **IDE :** Jupyter-Notebook
+
+     **Level :** Beginner Level
 
 # TASK-1
 
@@ -51,3 +51,15 @@ Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/dat
 
 Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task4-datascience-activity-6909856008353841152-dsDV?utm_source=linkedin_share&utm_medium=member_desktop_web
 
+
+                            **Level :** Intermediate Level 
+
+# TASK-5
+
+**Exploratory Data Analysis on Dataset - Terrorism**
+
+As a security/defense analyst, try to find out the hot zone of terrorism.
+
+Dataset Link :  https://bit.ly/2TK5Xn5
+
+Linkedin post link :

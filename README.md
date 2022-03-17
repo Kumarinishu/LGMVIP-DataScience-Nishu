@@ -62,4 +62,4 @@ As a security/defense analyst, try to find out the hot zone of terrorism.
 
 Dataset Link :  https://bit.ly/2TK5Xn5
 
-Linkedin post link :
+Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task5-datascience-activity-6910209943157555200-EOGw?utm_source=linkedin_share&utm_medium=member_desktop_web

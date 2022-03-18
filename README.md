@@ -77,7 +77,7 @@ Dataset Link :   https://bit.ly/3kXTdox
 Linkedin post link :
 
 
-                       **Advanced Level**
+                                        **Advanced Level**
 # TASK-7
 
 **Develop A Neural Network That Can Read Handwriting**

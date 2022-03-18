@@ -75,3 +75,15 @@ The purpose is if we feed any new data to this classifier, it would be able to  
 Dataset Link :   https://bit.ly/3kXTdox
 
 Linkedin post link :
+
+
+                       **Advanced Level**
+# TASK-7
+
+**Develop A Neural Network That Can Read Handwriting**
+
+Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners.
+
+Dataset Link :   https://en.wikipedia.org/wiki/MNIST_database
+
+Linkedin post link :

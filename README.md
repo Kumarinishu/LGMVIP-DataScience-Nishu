@@ -74,7 +74,7 @@ The purpose is if we feed any new data to this classifier, it would be able to  
 
 Dataset Link :   https://bit.ly/3kXTdox
 
-Linkedin post link :
+Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task6-datascience-activity-6910987301925912576-RfMX?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 
                                         **Advanced Level**

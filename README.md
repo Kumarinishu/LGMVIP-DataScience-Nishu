@@ -86,7 +86,7 @@ Begin my neural network machine learning project with the MNIST Handwritten Digi
 
 Dataset Link :   https://en.wikipedia.org/wiki/MNIST_database
 
-Linkedin post link :
+Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task7-datascience-activity-6911687403774627841-Y7W4?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 
 # TASK-8

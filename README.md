@@ -97,7 +97,7 @@ Using Tensorflow and Keras library train a RNN, to predict the next word.
 
 Dataset Link : https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
 
-Linkedin post link :
+Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task8-datascience-activity-6912775340230668288-no-g?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 
 # TASK-9
@@ -108,7 +108,7 @@ Mathematical equation solver using character and symbol recognition using image 
 
 Dataset Link : https://www.kaggle.com/xainano/handwrittenmathsymbols 
 
-Linkedin post link :
+Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task9-datascience-activity-6913722869499797504-R6uK?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 
                                      **More Advanced Level**
@@ -119,4 +119,4 @@ Linkedin post link :
 
 Dataset Link : https://www.kaggle.com/msambare/fer2013
 
-Linkedin post link :
+Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task10-datascience-activity-6913730442844127232-_E7m?utm_source=linkedin_share&utm_medium=member_desktop_web

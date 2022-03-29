@@ -120,3 +120,10 @@ Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_conne
 Dataset Link : https://www.kaggle.com/msambare/fer2013
 
 Linkedin post link : https://www.linkedin.com/posts/nishu-kumari-916507194_connections-task10-datascience-activity-6913730442844127232-_E7m?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+
+
+
+Copyright (c) 2022 Nishu Kumari
+
+If you have any Queries or suggestions, feel free to reach out to me.😌🙂
